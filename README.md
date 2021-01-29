@@ -1,5 +1,5 @@
  
-📫 Email: feldmannjunior@gmail.com  
+📫 Email: contato@feldmann.dev
 💻 LinkedIn: https://www.linkedin.com/in/feldmannjr/
 
 <!--
