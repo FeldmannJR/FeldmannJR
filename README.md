@@ -1,7 +1,13 @@
- 
+🔭 Currently working with Chatbots using Microsoft Bot Framework and the Azure Cloud Stack  
+🌱 Learning Rust at a slow pace
 ⚡ Discord: Feldmann#9843  
 📫 Email: contato@feldmann.dev  
 💻 LinkedIn: https://www.linkedin.com/in/feldmannjr/
+
+
+## Certifications
+
+- Java SE 8 Programmer (November 03, 2020)  
 
 <!--
 **FeldmannJR/FeldmannJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
