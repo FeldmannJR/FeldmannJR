@@ -1,4 +1,5 @@
  
+⚡ Discord: Feldmann#9843
 📫 Email: contato@feldmann.dev  
 💻 LinkedIn: https://www.linkedin.com/in/feldmannjr/
 
