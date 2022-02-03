@@ -6,7 +6,6 @@
 - And in 2020 started working in companies, currently i'm working at Mercado Livre.
 
 # Contact
-⚡ Discord: Feldmann#9843  
 📫 Email: contato@feldmann.dev  
 💻 LinkedIn: https://www.linkedin.com/in/feldmannjr/
 
